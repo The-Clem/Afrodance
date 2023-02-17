@@ -14,11 +14,11 @@ body{
 }
 
 #page1 {
-    background-image: url(/IMAGES/wallpaper3.jpg);
+    background-image: url(IMAGES/wallpaper3.jpg);
 }
 
 #page2{
-    background-image: url(/IMAGES/Wallpaper4.jpg);
+    background-image: url(IMAGES/Wallpaper4.jpg);
     background-size: cover;
 }
 
@@ -57,7 +57,7 @@ h6 {
 }
 .navbar{
 
-    background-image: url(/IMAGES/Wallpaper5.png);
+    background-image: url(IMAGES/Wallpaper5.png);
     font-size: 16px;
     top: 0;
     left: 0;

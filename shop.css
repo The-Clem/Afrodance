@@ -68,7 +68,7 @@ hr{
 
 .navbar{
 
-    background-image: url(/IMAGES/Wallpaper5.png);
+    background-image: url(IMAGES/Wallpaper5.png);
     font-size: 16px;
     top: 0;
     left: 0;
@@ -134,7 +134,7 @@ border-color:goldenrod;
 
 
 #home {
-    background-image: url(/IMAGES/vecteezy_handsome-positive-man-dancing-with-headphones__198.jpg);
+    background-image: url(IMAGES/vecteezy_handsome-positive-man-dancing-with-headphones__198.jpg);
     width: 100%;
     height:100vh;
     background-size:cover;
@@ -405,7 +405,7 @@ li{
     color: crimson;
 }
 #banner{
-    background-image: url(/IMAGES/vecteezy_attractive-young-woman-pointing-by-her-finger-sideways-place-for-copy-space_3492044.jpg);
+    background-image: url(IMAGES/vecteezy_attractive-young-woman-pointing-by-her-finger-sideways-place-for-copy-space_3492044.jpg);
     width: 100%;
     height:60vh;
     background-size:cover;
@@ -431,7 +431,7 @@ li{
     color: crimson;
 }
 #banner2{
-    background-image: url(/IMAGES/Hats/Hat\ Models.jpg);
+    background-image: url(IMAGES/Hats/Hat\ Models.jpg);
     width: 100%;
     height:60vh;
     background-size:cover;
@@ -455,7 +455,7 @@ li{
     color: crimson;
 }
 #banner3{
-    background-image: url(/IMAGES/hoodies/Hoodie\ models.jpg);
+    background-image: url(IMAGES/hoodies/Hoodie\ models.jpg);
     width: 100%;
     height:60vh;
     background-size:cover;
